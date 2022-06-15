@@ -1,3 +1,1 @@
-### Hello!
-
-This is my profile. There are many like it, but this one is mine!
+![leemoore-iw](https://github-readme-stats.vercel.app/api?username=leemoore-iw&count_private=true&show_icons=true&theme=dark)
